@@ -1,0 +1,2 @@
+git clone https://github.com/idergunov/stepik_web_techn.git /home/box/web
+bash /home/box/web/init.sh
